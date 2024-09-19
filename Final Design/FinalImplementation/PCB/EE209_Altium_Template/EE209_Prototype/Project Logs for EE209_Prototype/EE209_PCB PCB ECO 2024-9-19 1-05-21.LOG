@@ -1,0 +1,234 @@
+Change Component Comment : Designator=R6 Old Comment=* New Comment=0.82
+Change Component Comment : Designator=R5 Old Comment=* New Comment=1.8
+Change Component Comment : Designator=C5 Old Comment=* New Comment=1.3820u
+Change Component Comment : Designator=R4 Old Comment=* New Comment=2.7k
+Change Component Comment : Designator=C11 Old Comment=* New Comment=2.4678n
+Change Component Comment : Designator=C14 Old Comment=* New Comment=3.5436n
+Change Component Comment : Designator=C2 Old Comment=* New Comment=4.7u
+Change Component Comment : Designator=C4 Old Comment=* New Comment=4.1879u
+Change Component Comment : Designator=C8 Old Comment=* New Comment=5.1185n
+Change Component Comment : Designator=C10 Old Comment=* New Comment=5.1185n
+Change Component Comment : Designator=C13 Old Comment=* New Comment=5.1185n
+Change Component Comment : Designator=R9 Old Comment=* New Comment=10k
+Change Component Comment : Designator=C3 Old Comment=* New Comment=10u
+Change Component Comment : Designator=C7 Old Comment=* New Comment=10u
+Change Component Comment : Designator=R15 Old Comment=* New Comment=12k
+Change Component Comment : Designator=R10 Old Comment=* New Comment=22k
+Change Component Comment : Designator=C12 Old Comment=* New Comment=26.4629n
+Change Component Comment : Designator=R7 Old Comment=* New Comment=27k
+Change Component Comment : Designator=R8 Old Comment=* New Comment=27k
+Change Component Comment : Designator=R11 Old Comment=* New Comment=27k
+Change Component Comment : Designator=R13 Old Comment=* New Comment=27k
+Change Component Comment : Designator=R17 Old Comment=* New Comment=27k
+Change Component Comment : Designator=C9 Old Comment=* New Comment=31.7555n
+Change Component Comment : Designator=R1 Old Comment=* New Comment=33
+Change Component Comment : Designator=R19 Old Comment=* New Comment=39k
+Change Component Comment : Designator=C6 Old Comment=* New Comment=47u
+Change Component Comment : Designator=R3 Old Comment=* New Comment=56k
+Change Component Comment : Designator=R12 Old Comment=* New Comment=56k
+Change Component Comment : Designator=R14 Old Comment=* New Comment=56k
+Change Component Comment : Designator=R18 Old Comment=* New Comment=56k
+Change Component Comment : Designator=R2 Old Comment=* New Comment=100
+Change Component Comment : Designator=R16 Old Comment=* New Comment=100
+Change Component Comment : Designator=R20 Old Comment=* New Comment=100k
+Change Component Comment : Designator=C1 Old Comment=* New Comment=100n
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CCAP-5P0"; UniqueID = "\MHSZTASF" ("\MHSZTASF")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CCAP-5P0"; UniqueID = "\GEJKJLSD" ("\GEJKJLSD")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CCAP-5P0"; UniqueID = "\DNFJTQBC" ("\DNFJTQBC")
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP-RAD-2.5mm Pitch"; UniqueID = "\TORYVUOM" ("\TORYVUOM")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.1879u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP-RAD-2.5mm Pitch"; UniqueID = "\OZILSVDF" ("\OZILSVDF")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.3820u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CCAP-5P0"; UniqueID = "\IUQWDZEN" ("\IUQWDZEN")
+Change component parameters (AddParameter): Name = "Value"; Value = "47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CCAP-5P0"; UniqueID = "\JBLZVCKI" ("\JBLZVCKI")
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CCAP-5P0"; UniqueID = "\KFMZLDXZ" ("\KFMZLDXZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1185n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CCAP-5P0"; UniqueID = "\LKAZKRZM" ("\LKAZKRZM")
+Change component parameters (AddParameter): Name = "Value"; Value = "31.7555n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CCAP-5P0"; UniqueID = "\IHVFAYFR" ("\IHVFAYFR")
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1185n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CCAP-5P0"; UniqueID = "\MEDYTKNA" ("\MEDYTKNA")
+Change component parameters (AddParameter): Name = "Value"; Value = "2.4678n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CCAP-5P0"; UniqueID = "\JZDCGGON" ("\JZDCGGON")
+Change component parameters (AddParameter): Name = "Value"; Value = "26.4629n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CCAP-5P0"; UniqueID = "\LGLMPZON" ("\LGLMPZON")
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1185n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CCAP-5P0"; UniqueID = "\ROVZIQHG" ("\ROVZIQHG")
+Change component parameters (AddParameter): Name = "Value"; Value = "3.5436n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "AXIAL-0.4"; UniqueID = "\ZRBCHSBL" ("\ZRBCHSBL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "AXIAL-0.4"; UniqueID = "\KHYNODDJ" ("\KHYNODDJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "AXIAL-0.4"; UniqueID = "\KFVAJEZC" ("\KFVAJEZC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "AXIAL-0.4"; UniqueID = "\IUDKWBSR" ("\IUDKWBSR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "AXIAL-0.4"; UniqueID = "\KXPYXRKG" ("\KXPYXRKG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "AXIAL-0.4"; UniqueID = "\PZFRWHRI" ("\PZFRWHRI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.82"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "AXIAL-0.4"; UniqueID = "\PAIIRAKD" ("\PAIIRAKD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "27k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "AXIAL-0.4"; UniqueID = "\MQMYOLZD" ("\MQMYOLZD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "27k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "AXIAL-0.4"; UniqueID = "\HZHJTOVH" ("\HZHJTOVH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "AXIAL-0.4"; UniqueID = "\EMOIPRRO" ("\EMOIPRRO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "AXIAL-0.4"; UniqueID = "\CBYKLKEE" ("\CBYKLKEE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "27k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "AXIAL-0.4"; UniqueID = "\VMOXOZDI" ("\VMOXOZDI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "AXIAL-0.4"; UniqueID = "\GBVTCOSX" ("\GBVTCOSX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "27k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "AXIAL-0.4"; UniqueID = "\HUWJHKKM" ("\HUWJHKKM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "AXIAL-0.4"; UniqueID = "\OOBQQUKO" ("\OOBQQUKO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "AXIAL-0.4"; UniqueID = "\EEEYAGWU" ("\EEEYAGWU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "AXIAL-0.4"; UniqueID = "\CYABDKYO" ("\CYABDKYO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "27k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "AXIAL-0.4"; UniqueID = "\SZLEBLCN" ("\SZLEBLCN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "AXIAL-0.4"; UniqueID = "\JKUSPFVV" ("\JKUSPFVV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "AXIAL-0.4"; UniqueID = "\IIWPRPCB" ("\IIWPRPCB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.royalohm.com/pdf/product2017/PrecisionMetalMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
